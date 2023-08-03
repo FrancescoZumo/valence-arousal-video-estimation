@@ -15,7 +15,7 @@ This folder contains the code used to train and evaluate a 3D-CNN that predicts 
 
 The dataset used for training our proposed model is the discrete LIRIS-ACCEDE dataset: https://liris-accede.ec-lyon.fr/
 
-For evaluating our method we also used the continuous LIRIS-ACCEDE dataset (see rpevious link) and the AGAIN dataset: https://again.institutedigitalgames.com/
+For evaluating our method we also used the continuous LIRIS-ACCEDE dataset (see previous link) and the AGAIN dataset: https://again.institutedigitalgames.com/
 
 More details can be found in the thesis manuscript (TODO link once article/thesis is published)
 
