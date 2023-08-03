@@ -1,4 +1,4 @@
-# valence-arousal video estimation
+# valence-arousal video estimation: model training and evaluation
 
 Code written for my master's thesis: Procedural music generation forvideogames conditioned through video emotion recognition
 
