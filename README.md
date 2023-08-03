@@ -2,6 +2,15 @@
 
 Code written for my master's thesis: Procedural music generation for videogames conditioned through video emotion recognition
 
+Complementary repositories, part of the same project:
+-  valence-arousal-video-estimation (current repository)
+-  [midi-emotion-primer-continuation](https://github.com/FrancescoZumo/midi-emotion-primer-continuation)
+-  [videogame-procedural-music-experimental-setup](https://github.com/FrancescoZumo/videogame-procedural-music-experimental-setup)
+
+More details can be found in the thesis manuscript (TODO link once article/thesis is published)
+
+## Description
+
 This folder contains the code used to train and evaluate a 3D-CNN that predicts valence and arousal continuous values from a sequence of input frames. 
 
 The dataset used for training our proposed model is the discrete LIRIS-ACCEDE dataset: https://liris-accede.ec-lyon.fr/
