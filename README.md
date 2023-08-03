@@ -9,4 +9,4 @@ The dataset used for training our proposed model is the discrete LIRIS-ACCEDE da
 For evaluating our method we also used the continuous LIRIS-ACCEDE dataset and the AGAIN dataset: https://again.institutedigitalgames.com/
 
 
-for running the code, adapt all settings and parameters inside `main.py` for your needs and run the code. Several models were implemented and the code can be expanded by adding more networks inside `models.py`
+For training a model, modify all settings and parameters inside `main.py` according to your needs and run the script. The code can be expanded by adding more networks inside `models.py`
