@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# Francesco Zumerle
-# Code used for
-
+# Author: Francesco Zumerle
+# code written for thesis: 
+#   Procedural music generation for videogames conditioned through video emotion recognition
 
 
 # Code wrote starting from the Tensorflow tutorial https://www.tensorflow.org/tutorials/video/video_classification
