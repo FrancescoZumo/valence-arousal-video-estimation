@@ -17,7 +17,7 @@ The dataset used for training our proposed model is the discrete LIRIS-ACCEDE da
 
 For evaluating our method we also used the continuous LIRIS-ACCEDE dataset (see previous link) and the AGAIN dataset: https://again.institutedigitalgames.com/
 
-More details can be found in the thesis manuscript (TODO link once article/thesis is published)
+More details can be found in the thesis manuscript: https://www.politesi.polimi.it/handle/10589/210809
 
 ## Usage
 
